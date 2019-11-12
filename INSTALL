@@ -1,0 +1,9 @@
+Building UltimateBitcoin
+
+See doc/readme-qt.rst for instructions on building UltimateBitcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of UltimateBitcoin.
+
+See doc/build-*.txt for instructions on building UltimateBitcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of UltimateBitcoin.
